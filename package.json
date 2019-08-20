@@ -9,6 +9,10 @@
     "lint": "ng lint",
     "e2e": "ng e2e"
   },
+  "author": {
+    "name": "Touwin10",
+    "url": "https://touwin10.com/"
+  },
   "private": true,
   "dependencies": {
     "@angular/animations": "~7.2.0",
@@ -20,6 +24,8 @@
     "@angular/platform-browser-dynamic": "~7.2.0",
     "@angular/router": "~7.2.0",
     "core-js": "^2.5.4",
+    "faker": "^4.1.0",
+    "ng-click-outside": "^5.0.0",
     "rxjs": "~6.3.3",
     "tslib": "^1.9.0",
     "zone.js": "~0.8.26"
